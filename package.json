@@ -16,6 +16,6 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Lambda School",
+  "author": "BloomTech",
   "license": "ISC"
 }
